@@ -2,5 +2,4 @@
     "name": "Start Parameter Name",
     "version": "1.0.0",
     "parameter": "menu:https://DualNicks.github.io/msx/data/menu.json",
-    "welcome": "none"
 }
