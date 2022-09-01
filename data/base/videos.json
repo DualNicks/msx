@@ -19,9 +19,9 @@
             "action": "video:http://msx.benzac.de/media/video2.mp4"
         },
         {
-            "title": "Video 3",
-            "playerLabel": "Video 3",
-            "action": "video:http://msx.benzac.de/media/video3.mp4"
+            "title": "Please Work",
+            "playerLabel": "Player Label",
+            "action": "video:file:///C:/Users/eidenx/OneDrive%20-%20AbbVie%20Inc%20(O365)/Test.mp4"
         }
     ]
 }
