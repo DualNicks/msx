@@ -9,8 +9,8 @@
     },
     "items": [
         {
-            "title": "Video 1",
-            "playerLabel": "Video 1",
+            "title": "Test Vid",
+            "playerLabel": "Test",
             "action": "video:file:///C:/Users/eidenx/OneDrive%20-%20AbbVie%20Inc%20(O365)/Test.mp4"
         },
         {
