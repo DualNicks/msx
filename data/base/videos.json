@@ -21,7 +21,7 @@
         {
             "title": "Please Work",
             "playerLabel": "Player Label",
-            "action": "https://dualnicks.github.io/msx/data/base/Test.mp4"
+            "action": "video:https://dualnicks.github.io/msx/data/base/Test.mp4"
         }
     ]
 }
