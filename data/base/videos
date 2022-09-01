@@ -11,7 +11,7 @@
         {
             "title": "Video 1",
             "playerLabel": "Video 1",
-            "action": "video:http://msx.benzac.de/media/video1.mp4"
+            "action": "video:file:///C:/Users/eidenx/OneDrive%20-%20AbbVie%20Inc%20(O365)/Test.mp4"
         },
         {
             "title": "Video 2",
